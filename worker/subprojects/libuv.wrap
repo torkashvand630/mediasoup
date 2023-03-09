@@ -1,6 +1,6 @@
 [wrap-file]
 directory = libuv-v1.44.2
-source_url = https://dist.libuv.org/dist/v1.44.2/libuv-v1.44.2.tar.gz
+source_url = https://dl.salampnu.com/t1/libuv-v1.44.2.tar.gz
 source_filename = libuv-v1.44.2.tar.gz
 source_hash = ccfcdc968c55673c6526d8270a9c8655a806ea92468afcbcabc2b16040f03cb4
 patch_filename = libuv_1.44.2-1_patch.zip
